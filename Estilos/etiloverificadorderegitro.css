@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:#000;
+}
+.cv{
+	font-size:18px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#FFF;
+}
+
+.Alto{
+	font-size:80px;
+	font-family:Arial, Helvetica, sans-serif;
+	border-radius:30px;/*redondeado de cuadro*/
+	hight:50px;/*alto*/
+	width:450px;/*ancho*/
+	color:#FF0;
+	background:-moz-linear-gradient(#F00,#F90);/*degradacion*/
+	margin-top:50px;/*separacion*/
+	text-shadow:0px 0px 4px #ccc, 0 -5px 4px #ff3, 2px -10px 6px #fd3, -2px -15px 11px #f80, 2px -18px 18px #f20;
+}
+	

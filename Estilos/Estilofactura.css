@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:#000;
+}
+.rut{
+	background:#00F;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:36px;
+	color:#FFF;
+}
+.cliente{
+	background:#0CF;
+	font:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#000;
+}
+.producto{
+	background:#0CC;
+	font:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#000;
+}
+.total{
+	background:#0C9;
+	font:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#000;
+}
+.button{
+	background:#090;
+}.producto {
+	color: #FFF;
+}
+.banner{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#FFF
+}

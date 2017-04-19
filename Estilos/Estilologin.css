@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:#000;
+}
+.usuario{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:56px;
+	text-shadow:0px 0px 4px #ccc, 0 -5px 4px #FFF, 2px -5px 4px #fd3, -2px -15px 11px #f80, 2px -5px 10px #f20;
+	color:#FFF;
+}
+.usuarioone{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	text-shadow:0px 0px 4px #ccc, 0 -5px 4px #FFF, 2px -5px 4px #fd3, -2px -15px 11px #f80, 2px -5px 10px #f20;
+	color:#FFF;
+}
+.nuevo{
+	font-size:18px;
+	color:#FFF;
+}
+.logines{
+	font-size:16px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#FFF;
+}
+.footer{
+	font-size:36px;
+	font-family:"Comic Sans MS";
+	color:#FFF;
+	background:-moz-linear-gradient(#69F, #6CF);
+	border-radius:60px;
+	text-align:center;
+}
